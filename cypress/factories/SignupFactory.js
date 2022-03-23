@@ -26,7 +26,5 @@ export default {
         }
 
         return data
-
     }
-
 }
